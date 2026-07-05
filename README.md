@@ -66,24 +66,4 @@ Classify water quality as:
 Detect possible pollution sources
 Predict water quality degradation
 Recommend monitoring and treatment actions
-📁 Project Structure
-water-quality-agent/
-│
-├── esp32/
-│   ├── water_quality_sensor.ino
-│   └── calibration_tool.ino
-│
-├── dashboard/
-│   ├── index.html
-│   └── temp.js
-│
-├── backend/
-│   └── firebase_rules.json
-│
-├── docs/
-│   ├── setup_guide.md
-│   └── hardware_guide.md
-│
-├── Water_Quality_Dataset.csv
-├── water_potability.csv
-└── simulate_month.py
+
